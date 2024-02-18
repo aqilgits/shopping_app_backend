@@ -1,2 +1,2 @@
 # shopping_app_backend
- shopping application backend usin dotnet
+ shopping application backend using dotnet
